@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\bin\Debug\net8.0\gerenciador de tarefa.exe
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\bin\Debug\net8.0\gerenciador de tarefa.deps.json
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\bin\Debug\net8.0\gerenciador de tarefa.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\bin\Debug\net8.0\gerenciador de tarefa.dll
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\bin\Debug\net8.0\gerenciador de tarefa.pdb
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.dll
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\refint\gerenciador de tarefa.dll
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.pdb
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\gerenciador de tarefa.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade 10.02\Gerenciador-de-Tarefas\gerenciador de tarefa\obj\Debug\net8.0\ref\gerenciador de tarefa.dll

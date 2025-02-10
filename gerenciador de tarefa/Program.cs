@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Layout;
+
+string opcao = Formatacao.ImprimirCabecalho();
+
+switch (opcao)
+{
+        case "1":
+        Console.WriteLine("caso1");
+        break;
+    default:
+    Console.WriteLine();
+    break;
+}

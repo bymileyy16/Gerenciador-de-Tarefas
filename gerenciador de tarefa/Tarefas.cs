@@ -1,0 +1,7 @@
+namespace GerenciarTarefas
+{
+    class Tarefa
+    {
+       
+    }
+}
