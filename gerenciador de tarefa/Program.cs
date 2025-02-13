@@ -17,15 +17,22 @@ do
             Gerenciador.AdicionarTarefa(tarefa);
             break;
         case "2":
-            Console.WriteLine("Visualização das Listas");
+            Formatacao.Cor("Lista de Tarefas :) ", ConsoleColor.Cyan);
             Gerenciador.ListarTarefa();
             break;
         case "3":
-            Console.WriteLine("Conclusão de Tarefa ");
+             Formatacao.Cor("Tarefa concluida :) ", ConsoleColor.Green);
+            break;
+         case "4":
+            Formatacao.Cor("\tTarefa removida", ConsoleColor.Red);
+            break;
+            case "0":
+            Formatacao.Cor("Você saiu do Gerenciador de Tarefas! ", ConsoleColor.Red);
             break;
         default:
             Console.WriteLine("tarefa");
             break;
+           
 
     }
 } while (opcao != "0");

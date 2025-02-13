@@ -16,9 +16,9 @@ namespace Layout
 
         public static string ImprimirCabecalho()
         {
-            Console.WriteLine(" ===================================== ");
-            Console.WriteLine("         GERENCIADOR DE TAREFAS        ");
-            Console.WriteLine(" ===================================== ");
+            Console.WriteLine(" =============================== ");
+            Console.WriteLine("      GERENCIADOR DE TAREFAS     ");
+            Console.WriteLine(" =============================== ");
 
             Console.WriteLine(" | 1 - Adicionar Tarefa");
             Console.WriteLine(" | 2 - Listar Tarefas");
@@ -29,20 +29,5 @@ namespace Layout
             string opcao = Console.ReadLine();
             return opcao;
         }
-
-        // class program
-        // // {
-        //     static void Main(string[] args)
-        // {
-        //     string[] lista = { ImprimirCabecalho() };
-        //     foreach (string Listas in lista)
-        //     {
-        //         Console.WriteLine(ImprimirCabecalho);
-        //     }
-
-        //   }
-
-        // }
-        
     }
 }

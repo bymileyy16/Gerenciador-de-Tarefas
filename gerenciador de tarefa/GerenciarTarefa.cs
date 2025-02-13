@@ -11,7 +11,7 @@ namespace GerenciarTarefas
         {
             var  novaTarefa = new Tarefa( contadorId++, descricao);
             tarefas.Add(novaTarefa);
-            Formatacao.Cor("\tTarefa adicionada  com sucesso!", ConsoleColor.Green);
+            Formatacao.Cor("Tarefa adicionada  com sucesso!", ConsoleColor.Green);
         }
 
         // public void Concluirtarefa(int id)
@@ -32,7 +32,7 @@ namespace GerenciarTarefas
          {
             if (tarefas.Count == 0)
             {
-               Console.WriteLine("Nao há tarefas cadastradas.");
+               Console.WriteLine("Nao há nenhuma tarefas cadastradas.");
             }
             else
             {
