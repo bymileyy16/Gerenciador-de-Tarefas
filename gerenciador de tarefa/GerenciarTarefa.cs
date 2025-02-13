@@ -28,20 +28,20 @@ namespace GerenciarTarefas
         //     }
         // }
 
-        // public void ListarTarefa()
-        // {
-        //     if (tarefas.Count == 0)
-        //     {
-        //         Console.WriteLine("Nao há tarefas cadastradas.");
-        //     }
-        //     else
-        //     {
-        //         foreach (var tarefa in tarefas)
-        //         {
-        //             tarefa.ExibirTarefa();
-        //         }
-        //     }
-        // }    
+         public void ListarTarefa()
+         {
+            if (tarefas.Count == 0)
+            {
+               Console.WriteLine("Nao há tarefas cadastradas.");
+            }
+            else
+            {
+                foreach (var tarefa in tarefas)
+                {
+                    tarefa.ExibirTarefa();
+             }
+             }
+         }    
 
         // public void Removertarefas(int id)
         // {
